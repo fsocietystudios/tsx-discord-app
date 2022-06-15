@@ -1,46 +1,70 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo](https://miro.medium.com/max/1200/1*A1bEPfQeGGKp98z1cdctVA.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+# Discord's app ui
 
-### `npm start`
+Discord's app ui in a nutshell - Written in TSX + TailwindCSS
+## TODO
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* (The goal is to make this application like Discord)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [ ]   Make it fully intercative (Create servers, channels, write messages, etc..).
+- [ ]   Make it responsive.
+- [ ]   Login / Logout option.
+- [ ]   Optimize code where i can.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Run Locally
 
-### `npm run build`
+Clone the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+  git clone https://github.com/HirboSH/react-tsx-discord-app.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Go to the project directory
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+  cd react-tsx-discord-app
+```
 
-### `npm run eject`
+Install dependencies
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+  npm install
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Start the server
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+  npm run start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Demo
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![](https://github.com/HirboSH/react-tsx-discord-app/blob/master/demo.gif)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Support
+
+For support, you can contact me through my email: `korenlior99@gmail.com` or either my Discord account: `FSOCIETY#6666`.
+
+
+## Contributing
+
+Will be open soon.
+
+## Acknowledgements
+
+ - [TailwindCSS](https://tailwindcss.com/)
+ - [React](https://reactjs.org/)
+ - [Logo](https://miro.medium.com/max/1200/1*A1bEPfQeGGKp98z1cdctVA.png)
+ - [Awesome README Generator](https://readme.so/)
+
+
+## Authors
+
+- [@HirboSH](https://www.github.com/HirboSH)
+
