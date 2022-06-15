@@ -20,13 +20,13 @@ Discord's app ui in a nutshell - Written in TSX + TailwindCSS
 Clone the project
 
 ```bash
-  git clone https://github.com/HirboSH/react-tsx-discord-app.git
+  git clone https://github.com/HirboSH/tsx-discord-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd react-tsx-discord-app
+  cd tsx-discord-app
 ```
 
 Install dependencies
