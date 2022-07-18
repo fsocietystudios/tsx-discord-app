@@ -10,9 +10,9 @@ Discord's app ui in a nutshell - Written in TSX + TailwindCSS
 * (The goal is to make this application like Discord)
 
 - [ ]   Make it fully intercative (Create servers, channels, write messages, etc..).
-- [ ]   Make it responsive.
+- [ ]   Make it fully responsive.
 - [ ]   Login / Logout option.
-- [ ]   Optimize code where i can.
+- [ ]   Optimise code where I can.
 
 
 ## Run Locally
