@@ -1,8 +1,10 @@
 
 ![Logo](https://miro.medium.com/max/1200/1*A1bEPfQeGGKp98z1cdctVA.png)
 
-
 # Discord's app ui
+
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/tsx-discord-app/count.svg" />
 
 Discord's app ui in a nutshell - Written in TSX + TailwindCSS
 ## TODO
